@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in **CSE-AIML** @ Techno Main Salt Lake (2028)
-- 🌱 Currently learning : Machine Learning
+- 🌱 Currently Learning : Web Development
 - ⚡ Fun facts: I love **chess♟️**, **football⚽**, and designing elegant interfaces
 - 🚀 Always curious and passionate about building useful things
 
