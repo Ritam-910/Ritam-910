@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | CSE-AIML @ TMSL | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+build+web+projects+with+passion.;Learning+every+single+day+🚀" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+build+web+projects+with+passion.;Learning+every+single+day+🚀" alt="Typing SVG" />
 </p>
 
 ---
