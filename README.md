@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritam Choudhury</h1>
-<h3 align="center">Aspiring Software Developer | CSE-AIML @ TMSL | Machine Learning Enthusiast</h3>
+<h3 align="center"> Developer-In Progress | CSE-AIML @ TMSL | Machine Learning Explorer</h3>
 
 
 
