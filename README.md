@@ -1,19 +1,8 @@
 # 👋 About Me
 
-[![About Me](https://img.shields.io/badge/About%20Me-Professional-4c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritam-910)
+Hi — I'm Ritam. I build practical machine learning solutions and production-ready web applications that deliver measurable value. I focus on clean, maintainable code and reproducible experiments.
 
-Hi — I'm Ritam. I design and build dependable, maintainable web platforms and APIs that solve real problems. I focus on pragmatic engineering: clear architecture, reliable systems, and measurable outcomes.
-
-What I bring to the table
-- 🔧  Core strengths: system design • API development • automation & CI/CD  
-- 💡  Values: performance, observability, testability, and clean code  
-- 🎯  Current focus: improving developer experience, scalable backends, and impactful open-source contributions
-
-How to work with me
-- For collaboration, feature ideas, or bug reports — please use the Socials below or open an issue/PR on GitHub.  
-- Open to contract and full-time opportunities that prioritize engineering quality and product impact.
-
-Looking forward to building something great together.
+Looking forward to building effective, user-focused solutions.
 
 
 ## 🌐 Socials:
