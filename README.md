@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, I'm Ritam Choudhury — a B.Tech CSE (AI & ML) student passionate about building intelligent, data-driven systems and practical AI applications. I focus on developing solutions using machine learning, LLMs, and efficient data structures & algorithms to tackle real-world problems.<br><br>🚀 What I Do<br><br>Build AI-powered applications using Machine Learning, NLP, and RAG pipelines<br><br>Develop end-to-end ML systems — data preprocessing, model training, evaluation, and deployment<br><br>Create APIs using FastAPI and simple, functional web interfaces<br><br>Work with vector databases and local LLMs to build privacy-focused AI tools<br><br>Strengthen core programming through continuous DSA practice and problem-solving<br><br>🧠 Technical Skills<br><br>Programming: Python, Java, C, JavaScript<br>AI/ML: Scikit-Learn, TensorFlow, PyTorch, XGBoost, NLP, RAG, LangChain, Phi-3<br>Data Science: Pandas, NumPy, Matplotlib, Seaborn, EDA<br>Web & APIs: FastAPI, Streamlit, HTML/CSS/JS<br>Databases: ChromaDB, MongoDB<br>Other: Git, Jupyter Notebook, Java Swing, html2pdf.js<br><br>📌 Notable Projects<br><br>RAG-Powered Document ChatBot: AI assistant for querying PDFs using semantic search, LangChain, ChromaDB & Phi-3.<br><br>Student Performance Prediction API: ML-powered FastAPI service with RandomForest, ExtraTrees & XGBoost, plus Swagger docs.<br><br>Resume Generator Web App: Pure HTML/CSS/JS with PDF export using html2pdf.js.<br><br>Library Management System: Java Swing desktop application with tab-based GUI.<br><br>🎯 Current Goal<br><br>Actively seeking AI/ML internships to apply my technical skills, improve through real-world experience, and continue expanding my knowledge in ML development and DSA.
+# 👋 About Me
+
+[![About Me](https://img.shields.io/badge/About%20Me-Professional-4c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritam-910)
+
+Hi — I'm Ritam. I design and build dependable, maintainable web platforms and APIs that solve real problems. I focus on pragmatic engineering: clear architecture, reliable systems, and measurable outcomes.
+
+What I bring to the table
+- 🔧  Core strengths: system design • API development • automation & CI/CD  
+- 💡  Values: performance, observability, testability, and clean code  
+- 🎯  Current focus: improving developer experience, scalable backends, and impactful open-source contributions
+
+How to work with me
+- For collaboration, feature ideas, or bug reports — please use the Socials below or open an issue/PR on GitHub.  
+- Open to contract and full-time opportunities that prioritize engineering quality and product impact.
+
+Looking forward to building something great together.
 
 
 ## 🌐 Socials:
